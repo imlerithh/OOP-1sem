@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Monitor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Model>LG</Model>
+  <Price>100</Price>
+  <IsUpgraded>false</IsUpgraded>
+  <screen>
+    <Diagonal>1.8</Diagonal>
+  </screen>
+</Monitor>

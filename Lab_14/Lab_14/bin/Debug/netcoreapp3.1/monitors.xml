@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Monitors>
+<Monitor>  
+<Model>LG</Model>
+  <Price>100</Price>
+  <IsUpgraded>false</IsUpgraded>
+  <screen>
+    <Diagonal>1.8</Diagonal>
+  </screen>
+</Monitor>
+<Monitor>  
+<Model>Ultra</Model>
+  <Price>220</Price>
+  <IsUpgraded>false</IsUpgraded>
+  <screen>
+    <Diagonal>1.8</Diagonal>
+  </screen>
+</Monitor>
+</Monitors>

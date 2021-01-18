@@ -1,0 +1,21 @@
+----------STACK----------
+Product: Lab_8.Headphones
+Model: Redmi
+Price: 200
+Age: 3
+Is Upgraded: False
+
+Product: Lab_8.PC
+Model: Asus
+Price: 1000
+Age: 2
+Is Upgraded: True
+
+Product: Lab_8.Monitor
+Model: LG
+Screen: 19,5'
+Price: 300
+Age: 4
+Is Upgraded: False
+
+

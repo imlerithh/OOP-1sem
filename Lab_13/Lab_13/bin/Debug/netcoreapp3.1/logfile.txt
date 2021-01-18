@@ -1,0 +1,45 @@
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: DiskTotalFreeSpace - D:\
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: DiskDriveFormat - D:\
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: DiskGeneralInfo
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: FullPath - logfile.txt
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: LenExtName - logfile.txt
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: CreationAndChangeTime - logfile.txt
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: CreationAndChangeTime - D:\Education\course_2\Practice\OOP\Lab_13\Lab_13
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: CreationTime - D:\Education\course_2\Practice\OOP\Lab_13\Lab_13
+Success: True
+
+*LOG INFO*
+Time: 21.11.20 14:09:09
+Action: Directories - D:\Education\course_2\Practice\OOP\Lab_13\Lab_13
+Success: True
+

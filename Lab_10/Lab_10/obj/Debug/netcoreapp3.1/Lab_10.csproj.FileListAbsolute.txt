@@ -1,0 +1,13 @@
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.exe
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.deps.json
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.json
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.dev.json
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.dll
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.pdb
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csprojAssemblyReference.cache
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfoInputs.cache
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfo.cs
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csproj.CoreCompileInputs.cache
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.dll
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.pdb
+D:\Education\course_2\Practice\OOP\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.genruntimeconfig.cache

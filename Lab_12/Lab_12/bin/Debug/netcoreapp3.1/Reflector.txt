@@ -1,0 +1,56 @@
+Class: Airplane
+Method Name: Assembly
+Lab_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Class: Airplane
+Method Name: IsPublicConstructors
+true
+
+Class: Airplane
+Method Name: PublicMethods
+public String get_Destination()
+public Void set_Destination(String value)
+public Int32 get_FlightNumber()
+public Void set_FlightNumber(Int32 value)
+public String get_AirplaneType()
+public Void set_AirplaneType(String value)
+public DateTime get_DepartureTime()
+public ArrayList get_DaysOfWeek()
+public Void set_DaysOfWeek(ArrayList value)
+public Int64 get_ID()
+public static Int32 getAmountOfAirplanes()
+public virtual String ToString()
+public virtual Boolean Equals(Object obj)
+public virtual Int32 GetHashCode()
+public Type GetType()
+
+
+Class: Airplane
+Method Name: FieldsAndProperties
+Fields:
+System.Double maxHigh
+Properties:
+System.String Destination
+System.Int32 FlightNumber
+System.String AirplaneType
+System.DateTime DepartureTime
+System.Collections.ArrayList DaysOfWeek
+System.Int64 ID
+
+
+Class: Airplane
+Method Name: Interfaces
+
+
+Class: Airplane
+Method Name: MethodsByParametr; parameter - string
+set_Destination
+set_AirplaneType
+
+
+Class: Program
+Method Name: Invoke
+Called method: UpperCase
+Parameters: testing the invoke
+Result: TESTING THE INVOKE
+
